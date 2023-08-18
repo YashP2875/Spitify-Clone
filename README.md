@@ -1,2 +1,2 @@
 # Spitify-Clone
-by Yash Sanjay Patil
+    Aimed to develop Spotify clone is to implement the knowledge of HTML and CSS
